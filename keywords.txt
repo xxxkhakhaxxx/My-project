@@ -1,0 +1,17 @@
+Motor		KEYWORD1
+Sensor		KEYWORD1
+Relay		KEYWORD1
+reset		KEYWORD2
+declare		KEYWORD2
+init		KEYWORD2
+controlmanual	KEYWORD2
+controlauto	KEYWORD2
+controlhome	KEYWORD2
+controlautohome	KEYWORD2
+check		KEYWORD2
+on		KEYWORD2
+off		KEYWORD2
+checkT	KEYWORD2
+checkStopCmd	KEYWORD2
+char2num	KEYWORD2
+blinkRL_checkT	KEYWORD2
