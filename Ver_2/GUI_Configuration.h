@@ -1,8 +1,8 @@
 #ifndef GUI_CONFIGURATION_H
 #define GUI_CONFIGURATION_H
 
-#define BUILD_STEP_PER_MM   800
-#define FEEDER_STEP_PER_MM  800
-#define COATER_STEP_PER_MM  80
+#define X_RESOLUTION  16
+#define Y_RESOLUTION  16
+#define Z_RESOLUTION  16
 
 #endif
