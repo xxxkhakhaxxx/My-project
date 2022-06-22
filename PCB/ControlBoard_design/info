@@ -1,0 +1,326 @@
+{
+  "uuid": "4dd1bb2c2b9a39cbf4691abe9c1e8580",
+  "path": "Offline/Motor%20control%20with%20GUI",
+  "name": "Motor control with GUI",
+  "content": "Dự án thầy Thiện - 10/01/2022",
+  "created_at": "2022-01-12 14:03:59",
+  "updated_at": "2022-01-20 10:40:14",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "7a5820114e7f333a5382e0ae1bc627e3",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "45ddbab4559a43c6bc95d2ca22fb25a0": 1,
+        "1e401a1a5a774af9be6eafdf33cc7fbb": 1,
+        "2b2710891de30654fe3bc3acb5d98d5e": 1,
+        "1fe15befaee74bb8889b2d37342dcf14": 1,
+        "e3d9723054a7459b8a020f9bdb0c1be9": 1,
+        "777cbb55a9764ea9a0e9c7c3bbd45806": 1,
+        "c7b561c3a10d3f5d7f5b9e68d5364a24": 1,
+        "cdc2849b474d43e3a2eb90b85d9c80ec": 6,
+        "e56047885201450b99f6889b088d973c": 5,
+        "ac709b5e825c451994f43c94a80b8b30": 1,
+        "e1f104bf43884607b10115e6f03ac3ea": 2,
+        "4160acdcbf3c44b7857840e3de817f0d": 1,
+        "904335960c1546629afa5f29fd352c9b": 1,
+        "5ff90cee6f921cd0c2182c05fabf8e23": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KF142R-5.08-7P",
+          1,
+          "CONN-TH_7P-P5.08_KF142R-5.08-7P",
+          "CN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C475149",
+            "BOM_Manufacturer": "Cixi Kefa Elec",
+            "BOM_Manufacturer Part": "KF142R-5.08-7P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ed3920fdc89343f084a473e9aa883e87",
+            "uuid": "1e401a1a5a774af9be6eafdf33cc7fbb"
+          }
+        ],
+        [
+          "1N4007-E3/54",
+          1,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-FD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "VISHAY",
+            "BOM_Manufacturer Part": "1N4007-E3/54",
+            "BOM_Supplier Part": "C84643",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f9b6c4acbda64b569861a21e133c291c",
+            "uuid": "5ff90cee6f921cd0c2182c05fabf8e23"
+          }
+        ],
+        [
+          "Jumper",
+          1,
+          "H2-2.54",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "P125-1102A0BS116A2",
+            "puuid": "a44775ba53d84edb9df9409e7852306a",
+            "uuid": "1fe15befaee74bb8889b2d37342dcf14"
+          }
+        ],
+        [
+          "F185-1210A0BA1",
+          2,
+          "H2X10-2.54",
+          "J2,J3",
+          {
+            "BOM_Manufacturer Part": "F185-1210A0BA1",
+            "puuid": "85935d5ce41a41409360f682514ad4de",
+            "uuid": "e1f104bf43884607b10115e6f03ac3ea"
+          }
+        ],
+        [
+          "RED-3MM-2.54-2.2V",
+          1,
+          "LED-TH_BD5.4-P2.54-FD_RED",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900003210",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "LED-TH-3mm_R",
+            "puuid": "033feed9be964414b4ffb630d72a3d39",
+            "uuid": "e56047885201450b99f6889b088d973c"
+          }
+        ],
+        [
+          "LED-TH-3MM_R",
+          4,
+          "LED-TH_BD5.4-P2.54-FD_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900003210",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "LED-TH-3mm_R",
+            "puuid": "033feed9be964414b4ffb630d72a3d39",
+            "uuid": "e56047885201450b99f6889b088d973c"
+          }
+        ],
+        [
+          "2N2222A",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-R",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C358533",
+            "BOM_Manufacturer": "Foshan Blue Rocket Elec",
+            "BOM_Manufacturer Part": "2N2222A",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "d759540c89844d9986051022192fcef6",
+            "uuid": "4160acdcbf3c44b7857840e3de817f0d"
+          }
+        ],
+        [
+          "60",
+          1,
+          "RES-TH_BD3.3-L9.0-P13.00-D0.6",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119418",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "987b1ed46f1743c9a1f55a2893a33c05",
+            "uuid": "cdc2849b474d43e3a2eb90b85d9c80ec"
+          }
+        ],
+        [
+          "220",
+          1,
+          "RES-TH_BD3.3-L9.0-P13.00-D0.6",
+          "R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119418",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "987b1ed46f1743c9a1f55a2893a33c05",
+            "uuid": "cdc2849b474d43e3a2eb90b85d9c80ec"
+          }
+        ],
+        [
+          "1K5",
+          4,
+          "RES-TH_BD3.3-L9.0-P13.00-D0.6",
+          "R3,R4,R5,R6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119418",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "987b1ed46f1743c9a1f55a2893a33c05",
+            "uuid": "cdc2849b474d43e3a2eb90b85d9c80ec"
+          }
+        ],
+        [
+          "SRD-24VDC-SL-C",
+          1,
+          "RELAY-TH_SRD-XXVDC-XL-C",
+          "RLY1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SONGLE",
+            "BOM_Manufacturer Part": "SRD-24VDC-SL-C",
+            "BOM_Supplier Part": "C15840",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "318d2c3124b740ee9ca4dd4423ec5ad1",
+            "uuid": "2b2710891de30654fe3bc3acb5d98d5e"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-ARRAY-TH_5P-P2.54-D1.0",
+          "RN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "A05-103JP",
+            "BOM_Supplier Part": "C11394",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b347cadfc4e04ba1b7dc38cd157db603",
+            "uuid": "c7b561c3a10d3f5d7f5b9e68d5364a24"
+          }
+        ],
+        [
+          "IC254V-12-16-0743",
+          1,
+          "DIP-16_L20.3-W10.2-P2.54-LS7.6-BL",
+          "SK1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2874010",
+            "BOM_Manufacturer": "XFCN(台湾兴飞)",
+            "BOM_Manufacturer Part": "IC254V-12-16-0743",
+            "puuid": "12609243eb4f4f58bd760a94682cc748",
+            "uuid": "e3d9723054a7459b8a020f9bdb0c1be9"
+          }
+        ],
+        [
+          "MEGAARDUINO_11",
+          1,
+          "MEGA_ARDUINO_1",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "dda9d8532dc04bdf8743aee99d11bfba",
+            "uuid": "ac709b5e825c451994f43c94a80b8b30"
+          }
+        ],
+        [
+          "KF301-5.0-2P",
+          1,
+          "CONN-TH_P5.00_KF301-5.0-2P",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C474881",
+            "BOM_Manufacturer": "Cixi Kefa Elec",
+            "BOM_Manufacturer Part": "KF301-5.0-2P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "c444d117946441c3ab8b7492a6a9cd72",
+            "uuid": "45ddbab4559a43c6bc95d2ca22fb25a0"
+          }
+        ],
+        [
+          "PC817C",
+          1,
+          "DIP-4_L4.6-W6.5-P2.54-LS7.6-BL",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C115500",
+            "BOM_Manufacturer": "Wuxi China Resources Huajing Microelectronics",
+            "BOM_Manufacturer Part": "PC817C",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2b9b6f2a35734a199ff1482393809390",
+            "uuid": "904335960c1546629afa5f29fd352c9b"
+          }
+        ],
+        [
+          "KF7.62-3P",
+          1,
+          "CONN-TH_KF7.62-3P",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C707825",
+            "BOM_Manufacturer": "Cixi Kefa Elec",
+            "BOM_Manufacturer Part": "KF7.62-3P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1cea0b08697147e4bdb2486b0405004e",
+            "uuid": "777cbb55a9764ea9a0e9c7c3bbd45806"
+          }
+        ]
+      ],
+      "updateTime": 1642650014,
+      "createTime": 1641971924,
+      "histories": [],
+      "created_at": "2022-01-12 14:18:44",
+      "updated_at": "2022-01-20 10:40:14"
+    },
+    {
+      "uuid": "3c1630da7ba8c4981b3716ead3ae2a46",
+      "puuid": "4dd1bb2c2b9a39cbf4691abe9c1e8580",
+      "title": "PCB_Motor control with GUI_2",
+      "filename": "PCB_Motor control with GUI_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a44775ba53d84edb9df9409e7852306a": 1,
+        "ed3920fdc89343f084a473e9aa883e87": 1,
+        "f9b6c4acbda64b569861a21e133c291c": 1,
+        "85935d5ce41a41409360f682514ad4de": 2,
+        "033feed9be964414b4ffb630d72a3d39": 5,
+        "d759540c89844d9986051022192fcef6": 1,
+        "987b1ed46f1743c9a1f55a2893a33c05": 6,
+        "318d2c3124b740ee9ca4dd4423ec5ad1": 1,
+        "b347cadfc4e04ba1b7dc38cd157db603": 1,
+        "12609243eb4f4f58bd760a94682cc748": 1,
+        "dda9d8532dc04bdf8743aee99d11bfba": 1,
+        "c444d117946441c3ab8b7492a6a9cd72": 1,
+        "2b9b6f2a35734a199ff1482393809390": 1,
+        "1cea0b08697147e4bdb2486b0405004e": 1
+      },
+      "BOM": [],
+      "updateTime": 1642650011,
+      "createTime": 1642405006,
+      "histories": [],
+      "created_at": "2022-01-17 14:36:46",
+      "updated_at": "2022-01-20 10:40:11"
+    }
+  ],
+  "sort": [],
+  "title": "Motor control with GUI",
+  "foldername": "Motor control with GUI",
+  "schfilename": "Motor control with GUI.json",
+  "schfilemtime": 1642650014598
+}

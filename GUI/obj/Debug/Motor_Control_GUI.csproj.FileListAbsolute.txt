@@ -1,0 +1,74 @@
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe.config
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.AssemblyReference.cache
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.Form1.resources
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.Properties.Resources.resources
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.GenerateResource.cache
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.CoreCompileInputs.cache
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\CustomToolbox.dll
+E:\Project\RIC LAB - Motor Control with GUI\Tài liệu làm\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.CopyComplete
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe.config
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\CustomToolbox.dll
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.AssemblyReference.cache
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.Form1.resources
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.Properties.Resources.resources
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.GenerateResource.cache
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.CoreCompileInputs.cache
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.CopyComplete
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe.config
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\bin\Debug\CustomToolbox.dll
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.AssemblyReference.cache
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.Form1.resources
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.Properties.Resources.resources
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.GenerateResource.cache
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.CoreCompileInputs.cache
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.csproj.CopyComplete
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\TaiLieuLam\GUI_Arduino_ver2\Motor_Control_GUI\Motor_Control_GUI\obj\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\bin\Debug\Motor_Control_GUI.exe.config
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\bin\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\bin\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\bin\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\bin\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.csproj.AssemblyReference.cache
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.Form1.resources
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.Properties.Resources.resources
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.csproj.GenerateResource.cache
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.csproj.CoreCompileInputs.cache
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.csproj.CopyComplete
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code\obj\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\bin\Debug\Motor_Control_GUI.exe.config
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\bin\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\bin\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\bin\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\bin\Debug\Motor_Control_GUI.pdb
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.csproj.AssemblyReference.cache
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.Form1.resources
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.Properties.Resources.resources
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.csproj.GenerateResource.cache
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.csproj.CoreCompileInputs.cache
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.exe.manifest
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.application
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.csproj.CopyComplete
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.exe
+E:\Project\RIC LAB - Motor Control with GUI\GUI_control\GUI\GUI_code_ver2\obj\Debug\Motor_Control_GUI.pdb
